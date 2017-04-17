@@ -1,0 +1,20 @@
+{
+  "name": "openly-resources",
+  "authors": [
+    "Joshua Brooks <josh.vdbroek@gmail.com>"
+  ],
+  "description": "Resources for Openly",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "^3.4.2"
+  }
+}
